@@ -1,0 +1,45 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "vscode-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#eceef0",
+        "terminal.background": "#263137",
+        "terminal.selectionBackground": "#607c8b",
+        "terminal.ansiBlack": "#546d79",
+        "terminal.ansiBrightBlack": "#b0bec4",
+        "terminal.ansiRed": "#ff5151",
+        "terminal.ansiBrightRed": "#ff8980",
+        "terminal.ansiGreen": "#69f0ad",
+        "terminal.ansiBrightGreen": "#b9f6c9",
+        "terminal.ansiBlue": "#40c4fe",
+        "terminal.ansiBrightBlue": "#80d7fe",
+        "terminal.ansiYellow": "#ffd73f",
+        "terminal.ansiBrightYellow": "#ffe47e",
+        "terminal.ansiMagenta": "#ff3f80",
+        "terminal.ansiBrightMagenta": "#ff80ab",
+        "terminal.ansiCyan": "#64fcda",
+        "terminal.ansiBrightCyan": "#a7fdeb",
+        "terminal.ansiWhite": "#fefefe",
+        "terminal.ansiBrightWhite": "#fefefe"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.zoomLevel": 1
+}
